@@ -1,4 +1,4 @@
-# Programs
+# Programs:
 
 ### These are programs for Windows that I use every day. Most are free, paid apps are identified with 💳. I'll continue to update as needed.
 
