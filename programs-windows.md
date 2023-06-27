@@ -10,6 +10,10 @@
 > Create scripts to customize Windows' actions. I use a few for program-specific keybinds.
 > Website: https://www.autohotkey.com
 
+## BetterDiscord
+> Customize Discord UI with themes and plugins.
+> Website: https://betterdiscord.app/
+
 ## Bulk Crap Uninstaller
 > Thoroughly remove/uninstall applications.
 > Website: https://www.bcuninstaller.com/

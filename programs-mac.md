@@ -6,6 +6,10 @@
 > Better than just simply moving an application to the Trash because it also finds and deletes application files stored elsewhere on your hard drive.
 > https://freemacsoft.net/appcleaner
 
+## BetterDiscord
+> Customize Discord UI with themes and plugins.
+> Website: https://betterdiscord.app/
+
 ## Edison Mail
 > Free email client that has a touch more functionality and aesthetic than Apple Mail.
 > Website: https://www.edisonmail.com/
