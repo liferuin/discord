@@ -3,6 +3,8 @@
 Website: https://liferu.in
 
 Anilist: https://anilist.co/user/liferuin
+Are.na: https://are.na/life-ruin
+Bandcamp: https://liferuin.bandcamp.com
 eBay: https://www.ebay.com/usr/liferuin
 Github: https://github.com/liferuin
 Grailed: https://grailed.com/liferuin
